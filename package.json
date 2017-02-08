@@ -11,7 +11,7 @@
   "author": "Bin Hou",
   "license": "MIT",
   "dependencies": {
-    "babel-preset-stage-0": "^6.16.0",
-    "modify-babel-preset": "^3.2.0"
+    "babel-preset-stage-0": "^6.22.0",
+    "modify-babel-preset": "^3.2.1"
   }
 }
