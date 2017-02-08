@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-stage-0x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel preset for stage 0 plugins with blacklist",
   "main": "index.js",
   "keywords": [
@@ -11,7 +11,7 @@
   "author": "Bin Hou",
   "license": "MIT",
   "dependencies": {
-    "babel-preset-stage-0": "^6.16.0",
-    "modify-babel-preset": "^3.2.0"
+    "babel-preset-stage-0": "^6.22.0",
+    "modify-babel-preset": "^3.2.1"
   }
 }
