@@ -1,5 +1,7 @@
 # babel-preset-stage-0x
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kouhin/babel-preset-stage-0x.svg)](https://greenkeeper.io/)
+
 > Babel preset for stage 0,1,2,3 + with customizable plugin blacklist.
 
 ## Motivation
