@@ -1,5 +1,7 @@
 # babel-preset-stage-0x
 
+**Deprecated: Use latest babel-preset-env**
+
 > Babel preset for stage 0,1,2,3 + with customizable plugin blacklist.
 
 ## Motivation
